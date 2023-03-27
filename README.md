@@ -1,6 +1,6 @@
 # MyBike landing
 
-  Technology stack:HTML, SCSS, Javascript.
+  Technology stack: HTML, SCSS, Javascript.
 
   -[DEMO LINK](https://BrandonSunrise.github.io/MyBike-landing/)
 
